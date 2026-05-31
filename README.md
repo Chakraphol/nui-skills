@@ -22,7 +22,11 @@ Short clarifications stay in the terminal. The big stuff gets a real page. That'
 
 ### What it looks like
 
-Open [`examples/demo-session.html`](examples/demo-session.html) in your browser to see a live sample session (no install needed — just download and open the file).
+![A sample html session: a hosting-options comparison with CSS bars, a table, and a green recommendation card, followed by a Q3 revenue bar chart with a blue read-out card — a table-of-contents sidebar on the left.](assets/html-demo.png)
+
+*Two answers rendered as entries — a hosting comparison (table + bars + recommendation) and a revenue breakdown (SVG chart + read-out card). The left sidebar is the table of contents; the sticky **Refresh ↻** button pulls in new entries.*
+
+Want to poke at it live? Open [`examples/demo-session.html`](examples/demo-session.html) in your browser — no install needed, just download and open the file.
 
 ---
 
