@@ -1,0 +1,12 @@
+# html skill session output
+.claude-html/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# skills CLI lockfiles (machine-specific)
+.skill-lock.json
