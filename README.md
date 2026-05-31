@@ -111,7 +111,7 @@ Built by **Nui** — Entrepreneur & Financial Investor, exploring how far AI can
 
 If this saved you some squinting, I'd love to connect:
 
-- **LinkedIn** → [linkedin.com/in/chakraphol](https://www.linkedin.com/in/chakraphol/)
+- **Facebook** → https://www.facebook.com/MaoITM/
 
 Always happy to swap notes on AI tooling, investing, or building things — reach out and say hi. 🙂
 
